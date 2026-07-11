@@ -72,27 +72,55 @@ Airline-Performance-Analysis/
 │
 ├── Airline Project.pbix
 ├── README.md
-├── dashboard1.png
-├── dashboard2.png
-├── dashboard3.png
-└── dataset.xlsx
+├── home-dashboard.png
+├── flight-distribution-airline-performance.png
+├── route-analysis.png
+├── flight-delay-analysis.png
+├── flight-status-distribution.png
+├── Flight Trends & Detailed Insights
 ```
 
 ---
 
 ## 📷 Dashboard Preview
 
-### Main Dashboard
+### 🏠 Home Dashboard
 
-![Main Dashboard](dashboard1.png)
+This landing page provides an overview of the entire report and allows users to navigate to different analytical dashboards using interactive buttons.
 
-### Airline Performance
+![Home Dashboard](home-dashboard.png)
 
-![Airline Performance](dashboard2.png)
+### ✈️ Flight Distribution & Airline Performance Report
 
-### Flight Status Analysis
+This dashboard provides an overview of flight distribution, airline performance, key operational KPIs, and interactive visualizations to analyze airline operations.
 
-![Flight Status](dashboard3.png)
+![Flight Distribution & Airline Performance Report](flight-distribution-airline-performance.png)
+
+### 🗺️ Route Analysis
+
+This dashboard analyzes flight routes to identify the busiest connections, airport traffic, and route performance across different locations.
+
+![Route Analysis](route-analysis.png)
+
+### ⏱️ Flight Delay Analysis
+
+This dashboard provides insights into flight delays, helping identify delay patterns across airlines, routes, and operational performance.
+
+![Flight Delay Analysis](flight-delay.png)
+
+
+
+### 📊 Flight Status Distribution
+
+This dashboard analyzes the distribution of flight statuses, including **On-Time**, **Delayed**, and **Cancelled** flights. It helps stakeholders monitor operational performance and identify trends affecting flight reliability.
+
+![Flight Status Distribution](flight-status-distribution.png)
+
+### 📈 Flight Trends & Detailed Insights
+
+This dashboard presents flight trends and detailed operational insights, enabling users to monitor performance over time and identify key business patterns.
+
+![Flight Trends & Detailed Insights](flight-trends-detailed-insights.png)
 
 ---
 
