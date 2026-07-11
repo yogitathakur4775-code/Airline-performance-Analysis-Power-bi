@@ -1,4 +1,4 @@
-# ✈️ Airline-performance-Analysis-Power-bi
+# ✈️PowerBI-Airline-Performance-Dashboard
 
 > An interactive Power BI dashboard designed to analyze airline operations, monitor flight performance, and generate actionable business insights through data visualization.
 
