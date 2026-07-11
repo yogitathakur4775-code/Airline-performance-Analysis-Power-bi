@@ -100,7 +100,7 @@ This dashboard provides an overview of flight distribution, airline performance,
 
 This dashboard analyzes flight routes to identify the busiest connections, airport traffic, and route performance across different locations.
 
-![Route Analysis](route-analysis.png)
+![Route Analysis](https://github.com/yogitathakur4775-code/Airline-performance-Analysis-Power-bi/blob/main/images/Screenshot%202026-07-12%20033300.png?raw=true)
 
 ### ⏱️ Flight Delay Analysis
 
