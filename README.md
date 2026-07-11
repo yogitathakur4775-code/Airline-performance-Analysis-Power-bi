@@ -67,16 +67,20 @@ This project demonstrates the complete Power BI workflow, including data cleanin
 
 ## 📁 Project Structure
 
-```
-Airline-Analysis-Dashboard/
+```## 📁 Project Structure
+
+```text
+PowerBI-Airline-Performance-Dashboard/
 │── README.md
 │── Airline Dashboard.pbix
 │── airline_data.json
-│── screenshots/
-│     ├── dashboard.png
-│     ├── overview.png
-│     └── ...
-```
+│── images/
+│     ├── Screenshot 2026-07-12 032546.png
+│     ├── Screenshot 2026-07-12 033222.png
+│     ├── Screenshot 2026-07-12 033300.png
+│     ├── Screenshot 2026-07-12 033350.png
+│     ├── Screenshot 2026-07-12 033449.png
+│     └── Screenshot 2026-07-12 033523.png
 
 ---
 
