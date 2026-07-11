@@ -75,7 +75,7 @@ PowerBI-Airline-Performance-Dashboard/
 │── Airline Dashboard.pbix
 │── airline_data.json
 │── images/
-│     ├── Screenshot 2026-07-12 032546.png
+│     ├── 
 │     ├── Screenshot 2026-07-12 033222.png
 │     ├── Screenshot 2026-07-12 033300.png
 │     ├── Screenshot 2026-07-12 033350.png
@@ -90,7 +90,7 @@ PowerBI-Airline-Performance-Dashboard/
 
 This landing page provides an overview of the entire report and allows users to navigate to different analytical dashboards using interactive buttons.
 
-![Home Dashboard](https://github.com/yogitathakur4775-code/Airline-performance-Analysis-Power-bi/blob/main/images/Screenshot%202026-07-12%20032546.png?raw=true)
+![Home Dashboard](https://github.com/yogitathakur4775-code/Airline-performance-Analysis-Power-bi/blob/main/images/home-dashboard.png.png?raw=true)
 
 ### ✈️ Flight Distribution & Airline Performance Report
 
