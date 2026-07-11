@@ -88,7 +88,7 @@ Airline-Performance-Analysis/
 
 This landing page provides an overview of the entire report and allows users to navigate to different analytical dashboards using interactive buttons.
 
-![Home Dashboard](images/Screenshot 2026-07-12 032546.png)
+![Home Dashboard](images/Screenshot)
 
 ### ✈️ Flight Distribution & Airline Performance Report
 
