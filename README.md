@@ -1,103 +1,143 @@
 # ✈️ Airline-performance-Analysis-Power-bi
 
-## 📌 Project Overview
-This project is an interactive Power BI dashboard built to analyze airline performance using flight data. The dashboard provides insights into flight operations, delays, cancellations, airline performance, and route analysis to help identify trends and improve decision-making.
+> An interactive Power BI dashboard designed to analyze airline operations, monitor flight performance, and generate actionable business insights through data visualization.
 
 ---
 
-## 🎯 Objectives
-- Analyze airline performance.
+## 📖 Project Overview
+
+The Airline Performance Analysis Dashboard is an end-to-end Business Intelligence project developed in **Power BI**. It transforms raw airline data into meaningful visual insights, enabling users to monitor operational performance, identify trends, and support data-driven decision-making.
+
+This project demonstrates the complete Power BI workflow, including data cleaning, transformation, modeling, DAX calculations, and dashboard development.
+
+---
+
+## 🎯 Business Objectives
+
+- Analyze overall airline performance.
 - Monitor flight delays and cancellations.
-- Compare airline efficiency.
-- Identify busiest routes and airports.
-- Visualize key performance metrics through an interactive dashboard.
+- Compare airline operational efficiency.
+- Identify high-performing and low-performing airlines.
+- Track flight trends across different cities and time periods.
+- Support better business decisions using interactive dashboards.
 
 ---
 
 ## 🛠️ Tools & Technologies
-- Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Data Cleaning
-- Data Visualization
+
+| Tool | Purpose |
+|------|---------|
+| Power BI | Dashboard Development |
+| Power Query | Data Cleaning & Transformation |
+| DAX | Calculated Measures & KPIs |
+| Data Modeling | Table Relationships |
+| Microsoft Excel | Data Source |
 
 ---
 
 ## 📊 Dashboard Features
 
-- KPI Cards
-  - Total Flights
-  - On-Time Flights
-  - Delayed Flights
-  - Cancelled Flights
+### Executive KPIs
+- Total Flights
+- On-Time Flights
+- Delayed Flights
+- Cancelled Flights
 
-- Charts & Visualizations
-  - Flight Status Distribution
-  - Flights by Airline
-  - Average Delay by Airline
-  - Flights by Source City
-  - Flights by Destination City
-  - Monthly Flight Trends
-
-- Interactive Filters (Slicers)
-  - Airline
-  - Flight Status
-  - Source City
-  - Destination City
-  - Date
+### Visualizations
+- Flight Status Distribution
+- Flights by Airline
+- Average Delay by Airline
+- Flights by Source City
+- Flights by Destination City
+- Monthly Flight Trends
+- Interactive Slicers for Dynamic Filtering
 
 ---
 
-## 📈 Key Insights
-- Identified airlines with the highest number of delays.
-- Compared airline performance based on flight status.
-- Analyzed cancellation patterns.
-- Identified busiest airports and flight routes.
-- Observed monthly trends in flight operations.
+## 📈 Key Business Insights
+
+- Evaluated airline performance using operational KPIs.
+- Identified airlines with the highest delay rates.
+- Analyzed cancellation patterns across airlines.
+- Compared flight volume across different cities.
+- Discovered monthly trends in airline operations.
+- Enabled interactive filtering for deeper analysis.
 
 ---
 
-## 📂 Project Files
+## 📁 Project Structure
 
-- `Airline Project.pbix` – Power BI dashboard
-- `README.md` – Project documentation
+```
+Airline-Performance-Analysis/
+│
+├── Airline Project.pbix
+├── README.md
+├── dashboard1.png
+├── dashboard2.png
+├── dashboard3.png
+└── dataset.xlsx
+```
+
+---
+
+## 📷 Dashboard Preview
+
+### Main Dashboard
+
+![Main Dashboard](dashboard1.png)
+
+### Airline Performance
+
+![Airline Performance](dashboard2.png)
+
+### Flight Status Analysis
+
+![Flight Status](dashboard3.png)
 
 ---
 
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
-- Data Transformation
+- ETL Process
 - Data Modeling
-- DAX Measures
+- DAX Calculations
+- KPI Development
 - Dashboard Design
 - Business Intelligence
 - Data Visualization
-- Business Insights
+- Analytical Thinking
 
 ---
 
-## 📷 Dashboard Preview
+## 💼 Project Outcome
 
-> Add screenshots of your Power BI dashboard here.
-
-Example:
-
-![Dashboard Screenshot](dashboard.png)
+This dashboard enables stakeholders to quickly monitor airline performance, identify operational issues, and make informed decisions through interactive visual analytics.
 
 ---
 
-## 👤 Author
+## 👩‍💻 About Me
 
 **Yogita Thakur**
 
-Aspiring Data Analyst skilled in Excel, SQL, Python, Power BI, and Tableau.
+Aspiring Data Analyst passionate about transforming data into actionable business insights.
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://www.linkedin.com/in/yourprofile
+### Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Tableau
+- Data Visualization
+- Business Intelligence
 
 ---
 
-## ⭐ If you found this project useful, don't forget to star the repository!
+## 📬 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/your-linkedin
+- GitHub: https://github.com/your-github
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
