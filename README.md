@@ -88,7 +88,7 @@ Airline-Performance-Analysis/
 
 This landing page provides an overview of the entire report and allows users to navigate to different analytical dashboards using interactive buttons.
 
-![Home Dashboard](images/Screenshot)
+![Home Dashboard](https://github.com/yogitathakur4775-code/Airline-performance-Analysis-Power-bi/blob/main/images/Screenshot%202026-07-12%20032546.png?raw=true)
 
 ### ✈️ Flight Distribution & Airline Performance Report
 
