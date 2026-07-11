@@ -94,7 +94,7 @@ This landing page provides an overview of the entire report and allows users to 
 
 This dashboard provides an overview of flight distribution, airline performance, key operational KPIs, and interactive visualizations to analyze airline operations.
 
-![Flight Distribution & Airline Performance Report](flight-distribution-airline-performance.png)
+![Flight Distribution & Airline Performance Report](https://github.com/yogitathakur4775-code/Airline-performance-Analysis-Power-bi/blob/main/images/Screenshot%202026-07-12%20033222.png?raw=true)
 
 ### 🗺️ Route Analysis
 
