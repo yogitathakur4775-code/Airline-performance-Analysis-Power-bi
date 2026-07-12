@@ -76,11 +76,11 @@ PowerBI-Airline-Performance-Dashboard/
 │── airline_data.json
 │── images/
 │     ├── images/home-dashboard.png
-│     ├── Screenshot 2026-07-12 033222.png
-│     ├── Screenshot 2026-07-12 033300.png
-│     ├── Screenshot 2026-07-12 033350.png
-│     ├── Screenshot 2026-07-12 033449.png
-│     └── Screenshot 2026-07-12 033523.png
+│     ├──airline-performance.png
+│     ├── delay-analysis.png
+│     ├── flight-status.png
+│     ├── flight-trends.png
+│     └── route-analysis.png
 
 ---
 
