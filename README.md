@@ -75,7 +75,7 @@ PowerBI-Airline-Performance-Dashboard/
 │── Airline Dashboard.pbix
 │── airline_data.json
 │── images/
-│     ├── images/home-dashboard.png
+│     ├── home-dashboard.png
 │     ├──airline-performance.png
 │     ├── delay-analysis.png
 │     ├── flight-status.png
