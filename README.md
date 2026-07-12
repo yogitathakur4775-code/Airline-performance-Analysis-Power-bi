@@ -75,7 +75,7 @@ PowerBI-Airline-Performance-Dashboard/
 │── Airline Dashboard.pbix
 │── airline_data.json
 │── images/
-│     ├── 
+│     ├── images/home-dashboard.png
 │     ├── Screenshot 2026-07-12 033222.png
 │     ├── Screenshot 2026-07-12 033300.png
 │     ├── Screenshot 2026-07-12 033350.png
@@ -96,7 +96,7 @@ This landing page provides an overview of the entire report and allows users to 
 
 This dashboard provides an overview of flight distribution, airline performance, key operational KPIs, and interactive visualizations to analyze airline operations.
 
-![Flight Distribution & Airline Performance Report](https://github.com/yogitathakur4775-code/Airline-performance-Analysis-Power-bi/blob/main/images/airline-performance.png.png?raw=true)
+![Flight Distribution & Airline Performance Report](images/home-dashboard.png)
 
 ### 🗺️ Route Analysis
 
