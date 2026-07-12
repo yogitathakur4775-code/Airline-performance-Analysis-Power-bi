@@ -112,13 +112,13 @@ This dashboard provides insights into flight delays, helping identify delay patt
 
 This dashboard analyzes the distribution of flight statuses, including **On-Time**, **Delayed**, and **Cancelled** flights. It helps stakeholders monitor operational performance and identify trends affecting flight reliability.
 
-![Flight Status Distribution](https://github.com/yogitathakur4775-code/Airline-performance-Analysis-Power-bi/blob/main/images/Screenshot%202026-07-12%20033449.png?raw=true)
+![Flight Status Distribution](https://github.com/yogitathakur4775-code/Airline-performance-Analysis-Power-bi/blob/main/images/Screenshot%202026-07-12%20033449.png?raw=tru)
 
 ### 📈 Flight Trends & Detailed Insights
 
 This dashboard presents flight trends and detailed operational insights, enabling users to monitor performance over time and identify key business patterns.
 
-![Flight Trends & Detailed Insights](https://github.com/yogitathakur4775-code/Airline-performance-Analysis-Power-bi/blob/main/images/Screenshot%202026-07-12%20033523.png?raw=true)
+![Flight Trends & Detailed Insights](images/flight-trends.png)
 
 ---
 
