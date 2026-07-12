@@ -75,10 +75,11 @@ Airline-performance-Analysis-Power-bi/
 │── images/
 │   ├── home-dashboard.png
 │   ├── airline-performance.png
+│   ├── route-analysis.png
 │   ├── delay-analysis.png
 │   ├── flight-status.png
 │   ├── flight-trends.png
-│   └── route-analysis.png
+
 ```
 ## 📷 Dashboard Preview
 
@@ -103,7 +104,7 @@ This dashboard analyzes flight routes to identify the busiest connections, airpo
 
 This dashboard provides insights into flight delays, helping identify delay patterns across airlines, routes, and operational performance.
 
-![Flight Delay Analysis](https://github.com/yogitathakur4775-code/Airline-performance-Analysis-Power-bi/blob/main/images/Screenshot%202026-07-12%20033350.png?raw=true)
+![Flight Delay Analysis](images/delay-analysis.png)
 
 
 
