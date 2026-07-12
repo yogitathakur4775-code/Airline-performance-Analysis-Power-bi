@@ -67,23 +67,19 @@ This project demonstrates the complete Power BI workflow, including data cleanin
 
 ## 📁 Project Structure
 
-```## 📁 Project Structure
-
 ```text
-PowerBI-Airline-Performance-Dashboard/
+Airline-performance-Analysis-Power-bi/
 │── README.md
 │── Airline Dashboard.pbix
 │── airline_data.json
 │── images/
-│     ├── home-dashboard.png
-│     ├── airline-performance.png
-│     ├── delay-analysis.png
-│     ├── flight-status.png
-│     ├── flight-trends.png
-│     └── route-analysis.png
-
----
-
+│   ├── home-dashboard.png
+│   ├── airline-performance.png
+│   ├── delay-analysis.png
+│   ├── flight-status.png
+│   ├── flight-trends.png
+│   └── route-analysis.png
+```
 ## 📷 Dashboard Preview
 
 ### 🏠 Home Dashboard
