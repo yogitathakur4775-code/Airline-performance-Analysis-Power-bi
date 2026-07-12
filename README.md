@@ -98,7 +98,7 @@ This dashboard provides an overview of flight distribution, airline performance,
 
 This dashboard analyzes flight routes to identify the busiest connections, airport traffic, and route performance across different locations.
 
-![Route Analysis](images/delay-analysis.png)
+![Route Analysis](images/route-analysis.png)
 
 ### ⏱️ Flight Delay Analysis
 
