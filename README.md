@@ -89,8 +89,7 @@ PowerBI-Airline-Performance-Dashboard/
 ### 🏠 Home Dashboard
 
 This landing page provides an overview of the entire report and allows users to navigate to different analytical dashboards using interactive buttons.
-
-(![Home Dashboard](images/home-dashboard.png))
+![Home Dashboard](images/home-dashboard.png)
 
 ### ✈️ Flight Distribution & Airline Performance Report
 
